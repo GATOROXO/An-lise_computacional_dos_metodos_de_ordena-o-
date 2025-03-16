@@ -1,5 +1,4 @@
 # Analise_computacional_dos_metodos_de_ordenacao
-# README
 
 
 ---
