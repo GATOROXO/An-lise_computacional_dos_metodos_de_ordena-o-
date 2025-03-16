@@ -55,9 +55,7 @@ Faça o registro dos resultados obtidos (quantidade de troca e tempo gasto) pelo
 
 Faça uma tabela para cada método de ordenação.  
 
-Analise os dados obtidos e escreva um relatório com suas observações e análises, avaliando o(s) método(s) com melhor e pior desempenho. Discuta a taxa de comparação e troca em relação ao tamanho da entrada e o porquê de cada método ter apresentado determinado resultado.  
-
-Envie no AVA todos os códigos-fonte e o relatório completo.  
+Analise os dados obtidos e escreva um relatório com suas observações e análises, avaliando o(s) método(s) com melhor e pior desempenho. Discuta a taxa de comparação e troca em relação ao tamanho da entrada e o porquê de cada método ter apresentado determinado resultado.   
 
 ---
 
